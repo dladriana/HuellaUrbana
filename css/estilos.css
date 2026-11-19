@@ -1,0 +1,23 @@
+body{
+    background-color: #519ccf;
+    color: #0e0ecb;
+}
+header{
+    background-color: #4ae357;
+    color: #519ccf;
+}
+p{
+    font-size: 20px;
+}
+#eslogan{
+    color: #ec1a1a;
+    font-size: 30px;
+}
+.parrafo{
+    color: #d2d738;
+    font-size: 20px;
+}
+img{
+    width: 300px;
+    height: 300px;
+}
